@@ -192,4 +192,3 @@ public class RctView extends FrameLayout {
         ReflectionUtils.invoke(reactRootView, "onDetachedFromWindow");
     }
 }
-

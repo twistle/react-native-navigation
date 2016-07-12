@@ -18,11 +18,11 @@
   "author": "Tal Kol <talkol@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": ">=0.25.1",
-    "react": ">=0.14.5"
+    "react-native": ">=0.28.0",
+    "react": ">=15.2.0"
   },
   "dependencies": {
-    "react-native-controllers": "~2.0.9"
+    "react-native-controllers": ">=2.0.9"
   },
   "optionalDependencies": {
     "react-redux": "*"
